@@ -2,13 +2,13 @@
 <h1 align="center">Hola👋, soy Josevi Pérez</h1>
 <h3 align="center">Programador web Full Stack, actualmente y desde hace más de tres años en AZA Logistics S.L.</h3>
 
-- 🔭 Actualmente, trabajando en **Integraciones con Servicios Web**
+- 🔭 Actualmente, trabajando en **Integraciones con Servicios Web**.
 
-- 🌱 Actualmente, aprendiendo **Docker, Astro y Domain Driven Development**
+- 🌱 Actualmente, aprendiendo **Vue.js y Domain Driven Development**.
 
-- 📫 Puedes contactarme desde **jperegir@gmail.com**
+- 📫 Puedes contactarme desde **jperegir@gmail.com**.
 
-- ⚡ Algo sobre mi **Soy una persona sociable, proactiva y amigable**
+- ⚡ Algo sobre mi **Soy una persona humilde, proactiva y sociable y muy curiosa.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
