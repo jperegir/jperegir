@@ -1,6 +1,6 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola👋, soy Josevi Pérez</h1>
-<h3 align="center">Programador web Full Stack, actualmente y desde hace tres años en AZA Logistics S.L.</h3>
+<h3 align="center">Programador web Full Stack, actualmente y desde hace más de tres años en AZA Logistics S.L.</h3>
 
 - 🔭 Actualmente, trabajando en **Integraciones con Servicios Web**
 
